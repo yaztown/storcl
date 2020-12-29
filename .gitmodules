@@ -1,0 +1,3 @@
+[submodule "ltwebapp"]
+	path = ltwebapp
+	url = https://github.com/yaztown/ltwebapp.git
